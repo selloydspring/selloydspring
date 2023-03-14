@@ -1,6 +1,17 @@
 Hello World
 
-<a href=”https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/"><img align=”left” src=”https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedin.svg" alt=”selloydspring | LinkedIn” width=”21px”/></a>
+🤝 Connect with me:
+<div id="header" align="left">
+  <a href="https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/">
+    <img align=”left” 
+         src="https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedin.svg" 
+         width="21px" height="21px"/>
+  </a>
+</div>
+
+💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-.net-informational?style=flat&logo=.net&color=#512BD4)
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
