@@ -1,6 +1,6 @@
 Hello World
 
-<a href=”https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/"><img align=”left” src=”https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedIn.png" alt=”selloydspring | LinkedIn” width=”21px”/>
+<a href=”https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/"><img align=”left” src=”https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedin.svg" alt=”selloydspring | LinkedIn” width=”21px”/></a>
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
