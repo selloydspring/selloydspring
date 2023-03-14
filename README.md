@@ -1,8 +1,14 @@
-👋 Hi, I’m Selloyd Fernandes part of the spring team
-- 👀 I’m interested in mayhem
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello World
+
+<a href=”https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/"><img align=”left” src=”https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedIn.png" alt=”selloydspring | LinkedIn” width=”21px”/>
+
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+📈 GitHub Stats
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=selloydspring&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=selloydspring&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!---
 selloydspring/selloydspring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
