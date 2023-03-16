@@ -9,7 +9,14 @@ Selloyd Here
          src="https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedin.svg" 
          width="21px" height="21px"/>
   </a>
+  <a href="https://www.instagram.com/selloydfernandes/?hl=en-gb">
+    <img align=”left”
+         src="https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedin.svg" 
+         width="21px" height="21px"/>
+  </a>
 </div>
+
+
 
 💼 Technical Skills
 
