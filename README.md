@@ -11,7 +11,7 @@ Selloyd Here
   </a>
   <a href="https://www.instagram.com/selloydfernandes/?hl=en-gb">
     <img align=”left”
-         src="https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/linkedin.svg" 
+         src="https://raw.githubusercontent.com/selloydspring/selloydspring/main/images/Instagram.svg" 
          width="21px" height="21px"/>
   </a>
 </div>
