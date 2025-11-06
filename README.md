@@ -1,8 +1,8 @@
-Hello World
+Hello World!!
 
-Selloyd Here
+Welcome to my space
 
-🤝 Connect with me:
+🤝Socials here:
 <div id="header" align="left"> &nbsp;
   <a href="https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/">
     <img align=”left” 
