@@ -2,6 +2,8 @@ Hello World!!
 
 Welcome to my space
 
+Tech Entusiest and Homelabs tinkerer
+
 🤝Socials here:
 <div id="header" align="left"> &nbsp;
   <a href="https://www.linkedin.com/in/selloyd-fernandes-6b24811aa/">
